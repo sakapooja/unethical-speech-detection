@@ -48,7 +48,6 @@ unethical-speech-detection/
 ├── sample_incident_logs.csv   # Example of the log format (no real data)
 ├── requirements.txt
 ├── .gitignore
-├── LICENSE
 └── README.md
 ```
 
@@ -151,13 +150,3 @@ Expected output: `[1 0]`
 - Offline speech recognition (e.g., Vosk/Whisper) and cross-platform alerts.
 - Configurable keyword list and thresholds via a config file.
 - Multilingual / code-mixed speech support.
-
-## 👥 Credits
-
-Developed as a team project by the Unethical Speech Detection Team.
-
-Dataset: Davidson, T., Warmsley, D., Macy, M., & Weber, I. (2017). *Automated Hate Speech Detection and the Problem of Offensive Language.* ICWSM.
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
