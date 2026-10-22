@@ -154,7 +154,7 @@ Expected output: `[1 0]`
 
 ## 👥 Credits
 
-Originally developed as a team project and first published at [Harini-adusumalli/unethical-speech-detection](https://github.com/Harini-adusumalli/unethical-speech-detection). Republished with permission by Sai Spandana.
+Developed as a team project by the Unethical Speech Detection Team.
 
 Dataset: Davidson, T., Warmsley, D., Macy, M., & Weber, I. (2017). *Automated Hate Speech Detection and the Problem of Offensive Language.* ICWSM.
 
