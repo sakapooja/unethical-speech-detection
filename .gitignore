@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Local runtime data (may contain real speech transcripts) - see sample_incident_logs.csv
+incident_logs.csv
+
+# Secrets / local config
+.env
+*.key
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Downloaded dataset (if saved locally)
+labeled_data.csv

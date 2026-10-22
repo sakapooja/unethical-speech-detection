@@ -1,0 +1,7 @@
+# Python 3.11 - 3.13 recommended (scikit-learn 1.8 requires Python >= 3.11)
+# scikit-learn is pinned: the bundled .pkl model files were saved with 1.8.0
+scikit-learn==1.8.0
+numpy>=2.0
+pandas>=2.0          # used by train_model.py
+SpeechRecognition>=3.10
+PyAudio>=0.2.14      # microphone access for SpeechRecognition
