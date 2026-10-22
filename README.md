@@ -48,6 +48,7 @@ unethical-speech-detection/
 ├── sample_incident_logs.csv   # Example of the log format (no real data)
 ├── requirements.txt
 ├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
@@ -159,4 +160,4 @@ Dataset: Davidson, T., Warmsley, D., Macy, M., & Weber, I. (2017). *Automated Ha
 
 ## 📄 License
 
-No license has been chosen yet. Add one (e.g., MIT) only after all original contributors agree.
+This project is licensed under the [MIT License](LICENSE).
